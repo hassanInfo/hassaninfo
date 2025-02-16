@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data scientist
 --------------
 
-Passionate about leveraging data to drive meaningful insights and innovative solutions, I am a Data Scientist with a track record of successful projects in Machine Learning and Deep Learning. Currently seeking new opportunities to contribute my skills.
+Passionate about leveraging data to drive meaningful insights and innovative solutions, I am a Data Scientist with a track record of successful projects in Machine Learning and Deep Learning. 
 
-* ✉️  You can contact me at [h.idmansour000@gmail.com](mailto:h.idmansour000@gmail.com)
+* ✉️  You can contact me at
 
 ### Tech stack 🛠️ 
 
