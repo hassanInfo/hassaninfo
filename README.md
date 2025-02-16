@@ -14,7 +14,7 @@ Passionate about leveraging data to drive meaningful insights and innovative sol
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
   <a href="https://scikit-learn.org/" rel="nofollow"><img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="scikit_learn" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="max-width: 100%;"></a>
-  <a href="https://pandas.pydata.org/" rel="nofollow"><img src="" alt="pandas" width="40" height="40" style="max-width: 100%;"></a>
+  <a href="https://pandas.pydata.org/" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/21206976?s=280&v=4" alt="pandas" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="36" height="36" alt="PowerBI" /></a>
   &nbsp|&nbsp
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
