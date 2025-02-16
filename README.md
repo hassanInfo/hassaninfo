@@ -4,18 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 --------------
 
-Passionate about leveraging data to drive meaningful insights and innovative solutions, I am a Data Scientist with a track record of successful projects in Machine Learning and Deep Learning. 
+Passionate about leveraging data to drive meaningful insights and innovative solutions.
 
-* ✉️  You can contact me at
 
-### Tech stack 🛠️ 
-
-* Feature engineering
-* Supervised Learning
-* Unsupervised Learning
-* Self-supervised Learning
-* Reinforcement Learning
-* Transformers
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
